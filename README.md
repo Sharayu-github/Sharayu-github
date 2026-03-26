@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Sharayu 👋
+🚀 Aspiring Full Stack Developer
+🔗 Blockchain Technology Student at SPPU
+I am passionate about building real-world web applications and exploring Web3 technologies.
 
-<!--
-**Sharayu-github/Sharayu-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js
+- Web3: Smart contracts, Solidity
+- Tools: Git, GitHub, VS Code
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- React
+- Express
+- MongoDB
+- Blockchain Development
+- Full Stack Development (MERN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- 🏥 VitalX – A Decentralized Health Record Storage System (Web3 Project)  
+- ✅ To-Do List  
+- 🥁 Drum Kit  
+- 🚀 SkillStamp – A skill verification platform  
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/sharayu-deogaonkar-15425531b/
+- Email: deogaonkarsharayu@gmail.com
+
+## ⚡ Fun Fact
+I love building real-world projects 🚀
